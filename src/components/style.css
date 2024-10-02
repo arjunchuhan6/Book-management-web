@@ -4,8 +4,8 @@
     padding: 0;
 }
 .book-card{
-    width: 204px;
-    height:459px;
+    width: 250px;
+    height:409px;
     background: #fff;
     padding: 2px;
     margin: 20px;
@@ -21,7 +21,7 @@
 }
 
 .bookcover{
-    width: 200px;
+    width: 246px;
     border-radius: 10px;
 
 }
